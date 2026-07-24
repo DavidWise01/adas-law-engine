@@ -2,8 +2,8 @@ ROOT0-DLW-CHAIN-v1
 index : 177
 slug  : adas-law-engine
 seal  : eec6b53713e771ec268eeabfb783449f590a5ecbd8c721f0fe2005f1a8889db3
-prev  : 2306f5e45b7715dcba3ea15d3c615851424dd60dcb5c6e49468f4377a2e41fe8
-link  : cd43c240d05d464992c8c1f33448345ae49bc1173aac6c8ab798d990ae616282
-head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
+prev  : 651cd34bba3936f8470d7363adbf03d700180f4d5194ccfbf02b79a0b3623dab
+link  : 44adcbd59249a94519bf4edd234a2d63b6e930261365bf9135a2e78898fa6a05
+head  : f7444724835fd968bd2eac85811f9fa823a18d20a57907b4fade8d96b70b5409
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
